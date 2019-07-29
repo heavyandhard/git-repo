@@ -1,0 +1,2 @@
+print("goodbye")
+22222
