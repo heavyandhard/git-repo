@@ -1,5 +1,6 @@
 print("Hello world");
+<<<<<<< HEAD
 hello
-hello my dear friend
+hello my dear friend$
 Hello 4
-hello 5
+
